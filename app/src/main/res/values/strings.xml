@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Affinity_hw3</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="reg_affinity">.flowRegistration</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="age">Age</string>
+    <string name="arrow_right"><![CDATA[>]]></string>
+    <string name="arrow_left"><![CDATA[<]]></string>
+    <string name="KEY_NAME">KEY_NAME</string>
+    <string name="KEY_LAST_NAME">KEY_LAST_NAME</string>
+    <string name="main_screen">Главный экран</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+</resources>
